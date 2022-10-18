@@ -1,0 +1,45 @@
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\bin\Debug\net6.0\combine_wk1.exe
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\bin\Debug\net6.0\combine_wk1.deps.json
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\bin\Debug\net6.0\combine_wk1.runtimeconfig.json
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\bin\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\bin\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\refint\combine_wk1.dll
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\combine_wk1.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Desktop\codestack wk 1\combine_wk1\obj\Debug\net6.0\ref\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\bin\Debug\net6.0\combine_wk1.exe
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\bin\Debug\net6.0\combine_wk1.deps.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\bin\Debug\net6.0\combine_wk1.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\bin\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\bin\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\refint\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\combine_wk1.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\codestack wk 1\homework\mini2twonumbers\obj\Debug\net6.0\ref\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\bin\Debug\net6.0\combine_wk1.exe
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\bin\Debug\net6.0\combine_wk1.deps.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\bin\Debug\net6.0\combine_wk1.runtimeconfig.json
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\bin\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\bin\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.csproj.AssemblyReference.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.AssemblyInfoInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.AssemblyInfo.cs
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.csproj.CoreCompileInputs.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\refint\combine_wk1.dll
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.pdb
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\combine_wk1.genruntimeconfig.cache
+C:\Users\blayz\OneDrive\Documents\Codestack_LVL1\WeekOne\Homework\RmanzoMini2Git\obj\Debug\net6.0\ref\combine_wk1.dll
