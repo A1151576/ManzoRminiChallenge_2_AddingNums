@@ -2,7 +2,7 @@
 Rafael Manzo
 Day School Week 1
 Mini 2 add 2 numbers.
-In this program we will be revising our code, adding data validation, as well as a play again feature.
+In this program we will be revising our code where we ask our user for two numers then add them together, adding data validation, as well as a play again feature.
 10/18/22
 */
 Console.Clear();
