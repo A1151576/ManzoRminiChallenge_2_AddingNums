@@ -34,7 +34,3 @@ else
     Console.WriteLine("doesn't work, try again.");
 }
 }
-
-
-
-//Console.WriteLine("Your answer is:" + (num1 + num2));
