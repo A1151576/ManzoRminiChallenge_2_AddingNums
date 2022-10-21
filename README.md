@@ -1,1 +1,3 @@
 # RmanzoMini2Git
+
+Peer Review: Brandon Le - Project is able to give me the sum of the 2 numbers that I enter so good job on that. Code looks neat and I'm able to play again so the loop does work. The project does need data validation so if you have time it would be cool to see if you can get data validation (try parse) for when the user enters in letters or anything that is not a number. Could also get the play again function to work when typing a specific phrase like "YES" instead of pressing any keys. But good work and just try to get that data validation in there and it'll be perfect.
